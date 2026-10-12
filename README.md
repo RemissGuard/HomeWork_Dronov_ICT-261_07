@@ -77,8 +77,7 @@ default:
 
 ### БЛОК-СХЕМА
 
-<img width="881" height="1582" alt="Диаграмма без названия drawio (2)" src="https://github.com/user-attachments/assets/9fbbf494-49e8-4554-a5fd-ffc503e009c2" />
-
+<img width="882" height="1582" alt="Диаграмма без названия drawio (1)" src="https://github.com/user-attachments/assets/fb719ccd-1cff-4fca-9413-249076756b3b" />
 
 ## **2. Реализация программы**
 ```
